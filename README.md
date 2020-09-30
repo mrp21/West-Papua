@@ -11,6 +11,6 @@ Includes the following code;
 4) Mean Spectrum distance based redundancy analysis
 5) Model_deviance_correlation_analysis
 
-Please note this code is no 'elegant' and based on references in the annotation, but it does the job!
+Please note this code is not 'elegant' and based on references in the annotation, but it does the job!
 
 Also note that to apply it you will have to make some manual adaptations to choose parameters within the code itself.
